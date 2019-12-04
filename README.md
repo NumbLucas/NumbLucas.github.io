@@ -1,2 +1,2 @@
 # NumbLucas.github.io
-[Numbguy的个人博客](numbguy.top)
+[Numbguy的个人博客](www.numbguy.top)
